@@ -1,1 +1,1 @@
-This is my first challenge I've uploaded to github
+Repo of challenges for revature training
